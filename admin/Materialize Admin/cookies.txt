@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+themes.materializecss.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Fadmin-dashboard.html
+themes.materializecss.com	TRUE	/	FALSE	1999999999	_shopify_y	f63dca2b-a185-4a84-b8dd-183f9ca76543
+.datatables.net	TRUE	/	FALSE	1999999999	__cfduid	d607d6c26d555c016d91dd3e3459c2f901580962794
+cdn.datatables.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.themes.materializecss.com	TRUE	/	FALSE	1999999999	__cfduid	df2d75dd09335602b8cea928beb7247761580962808
+themes.materializecss.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+themes.materializecss.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+
